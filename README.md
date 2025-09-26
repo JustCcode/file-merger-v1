@@ -1,5 +1,5 @@
 <!-- Вставь своё изображение программы сюда -->
-![File Merger](https://i.ibb.co/dsDTPvRN/image.png)
+![File Merger](https://i.ibb.co/qL4CmRDM/image.png)
 
 # 🗂 File Merger v0.1
 
